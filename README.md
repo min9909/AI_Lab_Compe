@@ -13,8 +13,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
-### gitのコマンドリスト
-
+### gitの基礎コマンド
 更新したファイルをすべてステージする
 ```
 git add .
